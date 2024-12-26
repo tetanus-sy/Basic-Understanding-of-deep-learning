@@ -8,5 +8,5 @@
 那么由于本人使用的是**Pytorch**也就是以python的torch库为基础的语言，因此在这里需要对相关的资料和环境搭建做一些阐述。首先学习过程是以B站UP主@跟李沐学AI的动手学深度学习部分为基础，其相关教材电子版及代码链接为：
 **[《动手学深度学习》 — 动手学深度学习 2.0.0 documentation](https://zh.d2l.ai/index.html)**
 
-对于在一些IDE如Pycharm学习的同学，在课程的前期部分可以用只带CPU的电脑进行学习，但是学到第六章卷积神经网络LeNet(CPU勉强能跑，会很耗时）之后就需要用带有GPU显卡的电脑来跑代码，如何安装Pytorch可以看下列链接的视频：
+对于在一些IDE如Pycharm学习的同学，在课程的前期部分可以用只带CPU的电脑进行学习，但是学到**第六章卷积神经网络LeNet(CPU勉强能跑，会很耗时）之后就需要用带有GPU显卡的电脑来跑代码**，如何安装Pytorch可以看下列链接的视频：
 **[手把手教你安装PyTorch 傻瓜式操作 一次成功](https://www.bilibili.com/video/BV16H4y1c7Dx/?share_source=copy_web&vd_source=934dbcf707dd23affd7abb1463938dc1)**
