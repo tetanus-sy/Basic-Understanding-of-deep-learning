@@ -10,5 +10,6 @@
 
 对于在一些IDE如Pycharm学习的同学，在课程的前期部分可以用只带CPU的电脑进行学习，但是学到**第六章卷积神经网络LeNet(CPU勉强能跑，会很耗时）之后就需要用带有GPU显卡的电脑来跑代码**，如何安装Pytorch可以看下列链接的视频：
 **[手把手教你安装PyTorch 傻瓜式操作 一次成功](https://www.bilibili.com/video/BV16H4y1c7Dx/?share_source=copy_web&vd_source=934dbcf707dd23affd7abb1463938dc1)**
+在按照这个视频安装GPU的Pytorch时要注意，中间有一步是创建一个anaconda虚拟解释器环境，**一定要将python版本设置为3.8**，这是因为李沐老师团队开发的库d2l只能在3.8-3.10版本的python运行，3.8有网友说最为稳定
 
 #  郑重声明：本项目中的word只是相当于个人学习笔记，最好是看李沐老师的课然后如果感觉不懂的地方希望我的笔记会对你有帮助。
